@@ -2,7 +2,7 @@
 //  BBankApp.swift
 //  BBank
 //
-//  Created by Alexander on 21.01.2025.
+//  Created by Egor on 21.01.2025.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct BBankApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
